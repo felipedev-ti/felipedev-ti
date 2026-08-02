@@ -18,14 +18,12 @@
 
 ### 🚀 About Me
 
-Hi, I'm Felipe 👋 — a Software Engineering student at **CEULP/ULBRA**.
-
-I hold dual **Brazilian and Portuguese citizenship** and lived in Portugal for 6 years, which shapes how I approach engineering: I like to think across borders — between countries, and between disciplines. My goal isn't to be "just" a web or app developer — I'm building toward being a **systems-complete engineer**, someone equally comfortable with software, hardware, networking, and industrial automation.
+Hello! I'm Felipe, an undergraduate student at the Lutheran University Center of Brazil (Ceulp/ULBRA). I have a strong affinity for logic and algoritms, and I am driven by the constant pursuit of knowledge and new technologies. I consider myself proactive and a self-taught learner.
+I hold dual **Brazilian and Portuguese citizenship** and lived in Portugal for 6 years, which shapes how I approach engineering: I like to think across borders, between countries, and between disciplines. My goal isn't to be "just" a web or app developer. I'm building toward being a **systems-complete engineer**, someone equally comfortable with software, hardware, networking, and industrial automation.
 
 - 🎓 Education: Software Engineering – CEULP/ULBRA (Ongoing)
 - 🌍 Languages: Portuguese (native), English & Spanish (advanced), French (basic)
-- 🇧🇷🇵🇹 Brazil / Portugal — dual citizen
-
+  
 ---
 
 ### 🎯 Current Focus
