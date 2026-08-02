@@ -19,16 +19,17 @@
 ### 🚀 About Me
 
 Hello! I'm Felipe, an undergraduate student at the Lutheran University Center of Brazil (Ceulp/ULBRA). I have a strong affinity for logic and algoritms, and I am driven by the constant pursuit of knowledge and new technologies. I consider myself proactive and a self-taught learner.
-I hold dual **Brazilian and Portuguese citizenship** and lived in Portugal for 6 years, which shapes how I approach engineering: I like to think across borders, between countries, and between disciplines. My goal isn't to be "just" a web or app developer. I'm building toward being a **systems-complete engineer**, someone equally comfortable with software, hardware, networking, and industrial automation.
+I like to think across disciplines. My goal isn't to be 'just' a web or app developer — I'm building toward being a systems-complete engineer, someone equally comfortable with software, hardware, networking, and industrial automation.
 
-- 🎓 Education: Software Engineering – CEULP/ULBRA (Ongoing)
-- 🌍 Languages: Portuguese (native), English & Spanish (advanced), French (basic)
-  
+- 🎓 Scientific-Humanistic in Sciences and Technologies (Portugal, graduated)
+- 🎓 Software Engineering - CEULP/ULBRA (Brazil, Ongoing)
+- 🌍 Portuguese (native), English & Spanish (advanced), French (basic)
+
 ---
 
 ### 🎯 Current Focus
 
-I'm building my foundations in **C and Python**, working through core programming logic (loops, conditionals, data structures), while studying toward a long-term specialization in **industrial OT cybersecurity and embedded systems** — the intersection between my software education and my interest in heavy industry (oil & gas, energy, agribusiness).
+I'm building my foundations in **C and Python**, working through core programming logic (loops, conditionals, data structures), while studying toward a long-term specialization in **industrial OT cybersecurity and embedded systems** - the intersection between my software education and my interest in heavy industry (oil & gas, energy, agribusiness).
 
 **Long-term path:** Software Engineering degree → postgraduate specialization (Industrial Automation / Embedded Systems) → Master's in Computer Science.
 
@@ -50,7 +51,7 @@ Before university, I managed pharmacy, laboratory, and inventory operations as d
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
+[![LinkedIn](https://www.linkedin.com/in/felipe-carreira-ba15093b4/))
 
 </div>
 
