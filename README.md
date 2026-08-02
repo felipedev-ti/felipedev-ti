@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-Hi, I'm Felipe 👋 — a Software Engineering student at **CEULP/ULBRA** (Palmas, Tocantins, Brazil), currently in my 2nd semester (2026–2030).
+Hi, I'm Felipe 👋 — a Software Engineering student at **CEULP/ULBRA**.
 
 I hold dual **Brazilian and Portuguese citizenship** and lived in Portugal for 6 years, which shapes how I approach engineering: I like to think across borders — between countries, and between disciplines. My goal isn't to be "just" a web or app developer — I'm building toward being a **systems-complete engineer**, someone equally comfortable with software, hardware, networking, and industrial automation.
 
