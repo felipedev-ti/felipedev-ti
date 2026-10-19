@@ -16,6 +16,19 @@
 
 ---
 
+---
+
+### 💻 Linguagens
+[![](https://skillicons.dev/icons?i=python,java,c,cpp,js)](https://skillicons.dev)
+
+### 🛡️ Linux, Redes & Segurança
+[![](https://skillicons.dev/icons?i=linux,bash,kali,arch,docker)](https://skillicons.dev)
+
+### 🧰 Ferramentas
+[![](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+---
+
 ### 🚀 About Me
 
 Hello! I'm Felipe, an undergraduate student at the Lutheran University Center of Brazil (Ceulp/ULBRA). I have a strong affinity for logic and algoritms, and I am driven by the constant pursuit of knowledge and new technologies. I consider myself proactive and a self-taught learner.
