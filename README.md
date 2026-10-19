@@ -10,22 +10,9 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,html,css,react,nodejs,git,github" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,react,nodejs,linux,bash,kali,docker,git,github" />
 
 </div>
-
----
-
----
-
-### 💻 Linguagens
-[![](https://skillicons.dev/icons?i=python,java,c,cpp,js)](https://skillicons.dev)
-
-### 🛡️ Linux, Redes & Segurança
-[![](https://skillicons.dev/icons?i=linux,bash,kali,arch,docker)](https://skillicons.dev)
-
-### 🧰 Ferramentas
-[![](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ---
 
