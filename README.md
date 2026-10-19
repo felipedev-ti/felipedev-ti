@@ -19,7 +19,7 @@
 ### 🚀 About Me
 
 Hello! I'm Felipe, an undergraduate student at the Lutheran University Center of Brazil (Ceulp/ULBRA). I have a strong affinity for logic and algoritms, and I am driven by the constant pursuit of knowledge and new technologies. I consider myself proactive and a self-taught learner.
-I like to think across disciplines. My goal isn't to be 'just' a web or app developer. I'm building toward being a systems-complete engineer, someone equally comfortable with software, hardware, networking, and industrial automation.
+I like to think across disciplines. I'm building toward being a systems-complete engineer, someone equally comfortable with software, hardware, and networking, specializing in cybersecurity and enterprise development with Java.
 
 - 🎓 Scientific-Humanistic in Sciences and Technologies (Portugal, graduated)
 - 🎓 Software Engineering - CEULP/ULBRA (Brazil, Ongoing)
@@ -29,7 +29,7 @@ I like to think across disciplines. My goal isn't to be 'just' a web or app deve
 
 ### 🎯 Current Focus
 
-I'm building my foundations in C and Python, working through core programming logic (loops, conditionals, data structures), while developing a deeper interest in the logical and technical systems that underpin critical infrastructure - control systems, embedded logic, and secure networks.
+I'm building my foundations in Python, C, and Java, working through core programming logic, data structures, and databases, while going deeper into Linux, computer networking, and cybersecurity: how systems communicate, how they fail, and how to defend them. I'm putting it into practice with hands-on projects, starting with a Python-based tool that monitors SSH logs and detects brute-force attempts.
 
 ---
 
@@ -49,24 +49,3 @@ Before university, I managed pharmacy, laboratory, and inventory operations as d
 </div>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
